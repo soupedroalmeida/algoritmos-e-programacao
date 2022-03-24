@@ -12,7 +12,7 @@ int main(void){
     int index = 0;
     char input_string[TAM], output_alpha[TAM], output_beta[TAM];
 
-    printf("\nEntre com a string desejada: ");
+    printf("\nEntre com a string desejada:  ");
     scanf("%s", input_string);
 
     for (int i = 0; i < TAM; i++){
