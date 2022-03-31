@@ -6,7 +6,6 @@ void turnFactorial(int *n){
         temp--;
         *n *= temp;
     }
-
 }
  
 int main(){
